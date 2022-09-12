@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dev-practic-page/static/css/main.1ef73264.css",
-    "main.js": "/dev-practic-page/static/js/main.6d10e810.js",
-    "static/js/787.f65a017a.chunk.js": "/dev-practic-page/static/js/787.f65a017a.chunk.js",
-    "index.html": "/dev-practic-page/index.html",
-    "main.1ef73264.css.map": "/dev-practic-page/static/css/main.1ef73264.css.map",
-    "main.6d10e810.js.map": "/dev-practic-page/static/js/main.6d10e810.js.map",
-    "787.f65a017a.chunk.js.map": "/dev-practic-page/static/js/787.f65a017a.chunk.js.map"
+    "main.css": "/Dev-practic-app/static/css/main.1ef73264.css",
+    "main.js": "/Dev-practic-app/static/js/main.95e76af3.js",
+    "static/js/787.f65a017a.chunk.js": "/Dev-practic-app/static/js/787.f65a017a.chunk.js",
+    "index.html": "/Dev-practic-app/index.html",
+    "main.1ef73264.css.map": "/Dev-practic-app/static/css/main.1ef73264.css.map",
+    "main.95e76af3.js.map": "/Dev-practic-app/static/js/main.95e76af3.js.map",
+    "787.f65a017a.chunk.js.map": "/Dev-practic-app/static/js/787.f65a017a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef73264.css",
-    "static/js/main.6d10e810.js"
+    "static/js/main.95e76af3.js"
   ]
 }
