@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 150px;
+  background: #4c7e7e;
+
+  h2{
+    margin-top: 0px;
+    color: whitesmoke;
+  }
+
+  .linkBar {
+    a{
+      margin: 10px;
+      font-size: 18px;
+      color: whitesmoke;
+      text-decoration: none;}
+  }
+  .activeLink{
+    font-weight: bold;
+  }
+}
